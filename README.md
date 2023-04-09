@@ -1,7 +1,3 @@
-https://github.com/TvojaMamaLama/Auth_sprint_1
-
-участники aleshnikov9, p.schislyaev, dimavakulenko2 Что делали?Решали проблемы бизнеса)
-
 Запуск проекта:
 - docker-compose up -d
 
